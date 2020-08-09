@@ -1,13 +1,10 @@
-﻿											Assignment -2
-											 README FILE
+﻿									Assignment -2
+									README FILE
 
 
 
+C code, which implements a multithreaded approach to solve the classical musical chairs problem.
 
-LIST OF FILES SUBMITTED :
-* musicalchairs.cpp - Main code for the assignment, which implements a multithreaded approach to the classical musical chairs problem.
-* Report.pdf - Report for the above program, which explains the steps involved in implementing the above program and provides an analysis of the observed results.
-* README.txt (current file).
 
 COMPILING THE CODE :
 The code can be compiled by running the command :
