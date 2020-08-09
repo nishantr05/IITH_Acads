@@ -1,0 +1,9 @@
+﻿nishant@nishant-Inspiron-5370:~/programming_assignments$ gcc Fibonacci1.c
+nishant@nishant-Inspiron-5370:~/programming_assignments$ ./a.out
+The fibonacci number at position 1 is 0, and time taken to compute it is 0.000003 
+The fibonacci number at position 11 is 55, and time taken to compute it is 0.000002 
+The fibonacci number at position 21 is 6765, and time taken to compute it is 0.000002 
+The fibonacci number at position 31 is 832040, and time taken to compute it is 0.000002 
+The fibonacci number at position 41 is 102334155, and time taken to compute it is 0.000002 
+The fibonacci number at position 51 is 12586269025, and time taken to compute it is 0.000002 
+The fibonacci number at position 61 is 1548008755920, and time taken to compute it is 0.000003 

@@ -1,0 +1,10 @@
+﻿nishant@nishant-Inspiron-5370:~/programming_assignments$ gcc FibonacciRecurssive.c
+nishant@nishant-Inspiron-5370:~/programming_assignments$ ./a.out
+The fibonacci number at position 1 is 0,and time taken to compute it is 0.000004 
+The fibonacci number at position 6 is 5,and time taken to compute it is 0.000003 
+The fibonacci number at position 11 is 55,and time taken to compute it is 0.000004 
+The fibonacci number at position 16 is 610,and time taken to compute it is 0.000025 
+The fibonacci number at position 21 is 6765,and time taken to compute it is 0.000252 
+The fibonacci number at position 26 is 75025,and time taken to compute it is 0.002614 
+The fibonacci number at position 31 is 832040,and time taken to compute it is 0.010569 
+The fibonacci number at position 36 is 9227465,and time taken to compute it is 0.083242 

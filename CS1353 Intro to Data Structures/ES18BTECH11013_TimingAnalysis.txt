@@ -1,0 +1,24 @@
+﻿nishant@nishant-Inspiron-5370:~$ gcc TimingAnalysis.c
+nishant@nishant-Inspiron-5370:~$ ./a.out
+The array size is 10 and the Time taken is 0.000005 
+
+The array size is 10010 and the Time taken is 0.000116 
+
+The array size is 20010 and the Time taken is 0.000231 
+
+The array size is 30010 and the Time taken is 0.000344 
+
+The array size is 40010 and the Time taken is 0.000400 
+
+The array size is 50010 and the Time taken is 0.000500 
+
+The array size is 60010 and the Time taken is 0.000603 
+
+The array size is 70010 and the Time taken is 0.000731 
+
+The array size is 80010 and the Time taken is 0.000801 
+
+The array size is 90010 and the Time taken is 0.000899 
+
+nishant@nishant-Inspiron-5370:~$ 
+
