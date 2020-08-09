@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Function to calculate hamming distance
+//Function to calculate hamming distance.
 int hamming (int x, int y)
 {
 	int count = 0 ;
